@@ -8,28 +8,32 @@
 ### 2048 Game functions
 * getGrid
   * createBoard
-   * generate
+    * generate
+  
   * control
-   * keyLeft
-    * moveLeft(twice - once after combineRow)
-    * combineRow
-    * generate
-    * saveGrid
-   * keyUp
-    * moveUp(twice - once after combineColumnUp)
-    * combineColumnUp
-    * generate
-    * saveGrid
-   * keyRight
-    * moveRight(twice - once after combineRow)
-    * combineRow
-    * generate
-    * saveGrid
-   * keyDown
-    * moveDown(twice - once after combineColumnDown)
-    * combineColumnDown
-    * generate
-    * saveGrid
+    * keyLeft
+      * moveLeft(twice - once after combineRow)
+      * combineRow
+      * generate
+      * saveGrid
+    * keyUp
+      * moveUp(twice - once after combineColumnUp)
+      * combineColumnUp
+      * generate
+      * saveGrid
+    * keyRight
+      * moveRight(twice - once after combineRow)
+      * combineRow
+      * generate
+      * saveGrid
+    * keyDown
+      * moveDown(twice - once after combineColumnDown)
+      * combineColumnDown
+      * generate
+      * saveGrid
+   * checkForWin
+   * checkForGameOver
+  
 
 
 ### Javascript built in functions, and Web APIs used to build the game
