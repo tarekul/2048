@@ -9,7 +9,6 @@
 * getGrid
   * createBoard
     * generate
-  
   * control
     * keyLeft
       * moveLeft(twice - once after combineRow)
