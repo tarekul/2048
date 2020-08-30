@@ -5,9 +5,12 @@
 [2048 Game](https://tarekul.github.io/2048/index.html)
 ![](https://github.com/tarekul/2048/blob/master/2048game.gif)
 
-### 2048 Game Algoritm
+### 2048 Game functions
+* getGrid
+..* createBoard
 
-### Javascript built in functions, and DOM event objects used to build the game
+
+### Javascript built in functions, and Web APIs used to build the game
 * Document.querySelector
 * Document.getElementById
 * Document.addEventListener
@@ -21,4 +24,5 @@
 * SetTimeout
 * ClearInterval
 * SetInterval
+* LocalStorage
 
