@@ -7,7 +7,7 @@
 
 ### 2048 Game functions
 * getGrid
-..* createBoard
+  * createBoard
 
 
 ### Javascript built in functions, and Web APIs used to build the game
